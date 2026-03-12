@@ -7,3 +7,13 @@
 
 ### 🛠 Tech Stack
 - **Languages:** Python, Java, JavaScript
+
+### 🚀 Key Projects
+- **Health Insights AI** (uOttaHack 8)
+  - Engineered the **Gemini API** integration layer for biometric data analysis.
+  - Developed interactive dashboards using JavaScript.
+  - *Note: Repository is private to respect team collaboration.*
+
+- **Social Network Analysis Tool** (Computing I)
+  - Implemented **Adjacency Lists** to manage complex network data.
+  - Optimized common-friend search from $O(N^2)$ to $O(N \log N)$ using **Binary Search**.
